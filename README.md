@@ -1,5 +1,5 @@
 # Nomics
-This project is a submission to Hacking Good Toronto 2017. (https://devpost.com/software/nomics)
+This project is a submission to Hacking Good Toronto 2017 (https://devpost.com/software/nomics). Hopefully we can win the second stage of pitches next week!
 
 ## Inspiration
 Our inspiration encompasses games like Cookie Clicker, which are highly addictive, but undeniable simple.
